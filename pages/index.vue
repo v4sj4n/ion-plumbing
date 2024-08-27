@@ -1,0 +1,4 @@
+<template>
+    <HomeMain />
+    <HomeServices />
+</template>

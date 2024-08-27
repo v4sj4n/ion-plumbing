@@ -1,0 +1,30 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "about": "À propos"
+  },
+  "home": {
+    "main": {
+      "title": "ion Plomberie",
+      "description": "Votre endroit préféré pour vos besoins en plomberie",
+      "btnText": "Prendre un rendez-vous"
+    },
+    "services": [
+      {
+        "icon": "pipe",
+        "title": "Nettoyage des Canalisations",
+        "description": "Nettoyage professionnel des tuyaux obstrués ou à drainage lent pour assurer un écoulement d'eau fluide et éviter les blocages."
+      },
+      {
+        "icon": "drop",
+        "title": "Réparation des Fuites",
+        "description": "Réparation rapide et fiable des fuites dans les robinets, tuyaux et autres installations de plomberie pour éviter les dommages causés par l'eau."
+      },
+      {
+        "icon": "thermometer",
+        "title": "Réparation du Chauffe-Eau",
+        "description": "Un chauffe-eau avec une clé ou un symbole de flamme, indiquant les services d'installation et de réparation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About"
+  },
+  "home": {
+    "main": {
+      "title": "ion Plumbing",
+      "description": "Your favorite place to fix your plumbing needs",
+      "btnText": "Book an appointment"
+    },
+    "services": [
+      {
+        "icon": "pipe",
+        "title": "Drain Cleaning",
+        "description": "Professional cleaning of clogged or slow-draining pipes to ensure smooth water flow and prevent backups."
+      },
+      {
+        "icon": "drop",
+        "title": "Leak Repair",
+        "description": "Quick and reliable repair of leaks in faucets, pipes, and other plumbing fixtures to prevent water damage."
+      },
+      {
+        "icon": "thermometer",
+        "title": "Water Heater Repair",
+        "description": "A water heater tank with a wrench or a flame symbol, indicating both installation and repair services."
+      }
+    ]
+  }
+}

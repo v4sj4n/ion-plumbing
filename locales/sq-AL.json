@@ -1,0 +1,30 @@
+{
+  "navbar": {
+    "home": "Kryefaqja",
+    "about": "Rreth"
+  },
+  "home": {
+    "main": {
+      "title": "ion Instalime Hidraulike",
+      "description": "Vendi juaj i preferuar për nevojat tuaja të hidraulikës",
+      "btnText": "Rezervoni një takim"
+    },
+    "services": [
+      {
+        "icon": "pipe",
+        "title": "Pastrim Kanalizimesh",
+        "description": "Pastrim profesional i tubave të bllokuar ose që rrjedhin ngadalë për të siguruar një rrjedhë të qetë të ujit dhe për të parandaluar bllokimet."
+      },
+      {
+        "icon": "drop",
+        "title": "Rregullimi i Lëkurëve",
+        "description": "Rregullim i shpejtë dhe i besueshëm i lëkurëve në rubinetë, tuba dhe instalime të tjera hidraulike për të parandaluar dëmet nga uji."
+      },
+      {
+        "icon": "thermometer",
+        "title": "Rregullimi i Nxehësit të Ujit",
+        "description": "Një nxehës uji me një çelës ose një simbol flake, që tregon shërbimet e instalimit dhe rregullimit."
+      }
+    ]
+  }
+}
